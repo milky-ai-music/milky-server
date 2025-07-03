@@ -3,19 +3,18 @@ Milky는 사용자 정보(위치, 선호 음악 장르, 무드)를 바탕으로 
 
 ## Using Skills
 [![Nest.js](https://img.shields.io/badge/Nest.js-%23E0234E.svg?logo=nestjs&logoColor=white)](#)
-[![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)
 [![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)](#)
 
 ## Using Libraries
 [![Soundcloud](https://img.shields.io/badge/Soundcloud-FF3300?logo=Soundcloud&logoColor=white)](#)
-[![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff)](#)
 [![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?logo=perplexity&logoColor=fff)](#)
+[![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff)](#)
+<img alt="Google OAuth" src ="https://img.shields.io/badge/Google OAuth-F7B529.svg?&style=for-the-badge&logo=google&logoColor=black" height="20x"/>
 <img alt="Google Maps APIs" src ="https://img.shields.io/badge/Google Map APIs-4285F4.svg?&style=for-the-badge&logo=googlemaps&logoColor=white" height="20x"/>
-<img alt="weather api" src ="https://img.shields.io/badge/weather api-B2CD26.svg?&style=for-the-badge&logo=accuweather&logoColor=white" height="20x"/>
+<img alt="weather api" src ="https://img.shields.io/badge/weather api-B2CD26.svg?&style=for-the-badge&logo=accuweather&logoColor=black" height="20x"/>
 
 ## Requirements
 - Nest.js (Node v22)
-- Next.js
 - MariaDB
 
 ## Install Guide
